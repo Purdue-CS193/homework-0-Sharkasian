@@ -25,7 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+#Shankh's First CS193 Homework
 
+-I like the TA's
+-I like having no exams
+-I like the content
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
